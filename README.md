@@ -56,7 +56,7 @@
 
 ### Github
 * [jeromeetienne](https://github.com/jeromeetienne/)
-
+* [threejs实现的一个3d选座](https://github.com/shen1992/room-threejs)
 
 License
 ---------------------
