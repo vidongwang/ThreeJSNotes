@@ -3,7 +3,7 @@
 > 收集 ThreeJS 相关的系列教程、Demo、工具；整理学习笔记和Demo；欢迎补充和相互交流！
 
 ## ThreeJS 官网
-[https://threejs.org](https://threejs.org)
+* [https://threejs.org](https://threejs.org)
 
 ## Three.js 教程 | 文章
 * [webgl 入门教程](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene)
@@ -13,6 +13,7 @@
 * [Three.js 中文文档](http://techbrood.com/threejs/docs/)
 * [Intro to WebGL with Three.js](http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0)
 * [Google+ 关于 threejs 的文章发布](https://plus.google.com/+ThreejsOrg)
+* [WebGL中文网(部分收费)](http://www.hewebgl.com)
 
 ## ThreeJS 相关的库
 * [tween lite](https://greensock.com/)
@@ -24,7 +25,10 @@
 * [ar.js](https://github.com/then/promise)
 
 ## 开发工具
-* [threejs inspector chrome](http://learningthreejs.com/blog/2015/08/13/three-dot-js-inspector-in-chrome-devtools-v1-dot-2-5-released/)
+* [three.js inspector for chrome](https://chrome.google.com/webstore/detail/threejs-inspector/dnhjfclbfhcbcdfpjaeacomhbdfjbebi)
+* [threejs-inspector](https://github.com/jeromeetienne/threejs-inspector)
+* [threejs inspector 介绍](http://learningthreejs.com/blog/2015/08/13/three-dot-js-inspector-in-chrome-devtools-v1-dot-2-5-released/)
+* [codepen](https://codepen.io/)
 
 ## 素材网站
 * [行星素材](http://planetpixelemporium.com/earth.html)
@@ -36,6 +40,7 @@
 * [Three.js-Example](https://threejs.org/examples/#webgl_geometry_text)
 * [Altered Qualia](http://alteredqualia.com/)
 * [CESIUM 3D 地球](http://cesiumjs.org/index.html)
+* [115个3D游戏](https://www.jocly.com/)
 
 ### DEMO
 * [Three Bird](http://codepen.io/Yakudoo/pen/LVyJXw?editors=0010)
@@ -47,6 +52,11 @@
 * [voxelpainter](https://threejs.org/examples/webgl_interactive_voxelpainter.html)
 * [tunnel-effect](http://learningthreejs.com/blog/2012/01/11/tunnel-effect/)
 * [Altered earth](http://alteredqualia.com/xg/examples/earth_bathymetry.html)
+* [ThreeJS的学习项目](https://github.com/alex2wong/ThreejsDemo)
+
+### Github
+* [jeromeetienne](https://github.com/jeromeetienne/)
+
 
 License
 ---------------------
